@@ -5,7 +5,7 @@ namespace Geometry
      class Program
      {
           static void Main(string[] args) {
-               Rectangle rect = new Rectangle(3, 5);
+               Rectangle rect = new Rectangle(1, 5);
 
                Console.WriteLine(rect.Area());
           }
