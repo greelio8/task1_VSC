@@ -7,5 +7,10 @@ namespace Geometry
      class Circle
      {
           public int Radius { get; set; }
+
+          public Circle(int radius) 
+          {
+               this.Radius = radius;
+          }
      }
 }
