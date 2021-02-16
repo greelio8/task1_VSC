@@ -6,6 +6,7 @@ namespace Geometry
      {
           static void Main(string[] args) {
                Console.WriteLine("Hello");
+               Console.WriteLine("GoodBye");
           }
      }
 }
